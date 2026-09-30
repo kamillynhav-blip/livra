@@ -1,2 +1,2 @@
-# enccanto das paginas 
+# encanto das paginas 
 livra 
